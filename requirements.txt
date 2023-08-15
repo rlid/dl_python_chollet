@@ -1,3 +1,9 @@
 numpy
 tensorflow
+tensorflow_addons
 matplotlib
+pandas
+scikit-learn
+xgboost
+catboost
+tabpfn
