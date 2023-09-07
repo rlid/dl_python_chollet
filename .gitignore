@@ -1,6 +1,9 @@
 /.venv
 /cats_vs_dogs_small
+/feature_extraction
 /test1
 /train
 test1.zip
 train.zip
+model.png
+.DS_Store
