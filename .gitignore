@@ -4,6 +4,15 @@
 /test1
 /train
 /ch9
+/jena_*
+/aclImdb
+/embeddings_*
+/binary_*
+/one_hot_*
+/tfidf_*
+glove*
+aclImdb*
+jena*
 test1.zip
 train.zip
 model.png
