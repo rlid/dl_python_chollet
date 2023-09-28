@@ -18,6 +18,7 @@ tfidf_*/
 transformer_encoder/
 full_transformer_encoder/
 full_transformer_encoder_0/
+full_transformer_decoder/
 mini_xception/
 oxford_seg/
 oxford_segmentation/
