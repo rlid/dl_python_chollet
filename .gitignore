@@ -1,4 +1,9 @@
 .venv/
+.jupyter/
+.ipython/
+.keras/
+.local/
+.ipynb_checkpoints/
 cats_vs_dogs_small/
 feature_extraction/
 test1/
@@ -10,11 +15,6 @@ embeddings_*/
 binary_*/
 one_hot_*/
 tfidf_*/
-.jupyter/
-.ipython/
-.keras/
-.local/
-.ipynb_checkpoints/
 transformer_encoder/
 full_transformer_encoder/
 full_transformer_encoder_0/
