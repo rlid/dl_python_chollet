@@ -8,3 +8,4 @@ xgboost
 catboost
 tabpfn
 pydot
+keras-tuner

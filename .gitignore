@@ -24,6 +24,7 @@ oxford_seg/
 oxford_segmentation/
 spa-eng/
 aclImdb/
+mnist_kt_test/
 __MACOSX/
 *.zip
 *.gz
